@@ -1,5 +1,5 @@
 --// Premium User //--
-local user_premium__001 = game.Players.Ioveitthx, game.Players.ZeroDHC2
+local user_premium__001 = game.Players.Ioveitthx
 
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
